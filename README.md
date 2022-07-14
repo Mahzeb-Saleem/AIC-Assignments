@@ -1,2 +1,2 @@
-# AIC-Assignment2-Marksheet
+# AIC-Assignments
 PIAIC- Artificial Intelligence Course

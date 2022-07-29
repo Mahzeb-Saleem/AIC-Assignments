@@ -2,12 +2,12 @@ import random
 random_nos=[]
 mod_nos=[]
 sum=0
+min=random_nos[0]
+max=random_nos[0]
 for i in range(0,100):
     random_nos.append(random.randint(0,200))
 print('List of random numbers')
 print(random_nos)
-min=random_nos[0]
-max=random_nos[0]
 
 for j in range(0,99):
     if random_nos[j]>40:
@@ -32,7 +32,6 @@ for m in range(len(random_nos)):
 print('Maximum of random numbers')
 print(max)
 
-average_rand=sum/()
 
 
 
